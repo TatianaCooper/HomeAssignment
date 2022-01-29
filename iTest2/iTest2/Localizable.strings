@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  iTest2
+
+  Created by Tatiana Cooper on 29/01/2022.
+  
+*/
+"search_prompt" = "Search for images" ;
+"main_view_title" = "Home Assignment" ;
+"detailed_view_title" = "Image Details" ;
+"network_error_msg_title" = "Network Connection Error";
+"network_error_msg_body" = "Please relaunch app and try again";
